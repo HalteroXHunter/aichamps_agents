@@ -1,0 +1,13 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "simple_graph": "simple_agent/simple_agent.py:graph",
+    "multi_agent_graph": "multi_agent/multi_agent.py:graph",
+    "reflection_agent_graph": "reflection_agent/reflection_agent.py:graph"
+  },
+  "env": "./.env",
+  "python_version": "3.13",
+  "dependencies": [
+    "."
+  ]
+}
